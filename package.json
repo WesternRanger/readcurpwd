@@ -1,0 +1,24 @@
+{
+  "name": "readcurpwd",
+  "version": "1.0.0",
+  "description": "about how 痛",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesternRanger/readcurpwd.git"
+  },
+  "keywords": [
+    "practice",
+    "npm",
+    "package"
+  ],
+  "author": "chenqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesternRanger/readcurpwd/issues"
+  },
+  "homepage": "https://github.com/WesternRanger/readcurpwd#readme"
+}
