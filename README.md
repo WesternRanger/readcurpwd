@@ -38,4 +38,4 @@ npm ERR!     /Users/WesternRanger/atomProjects/fightting/readcurpwd/npm-debug.lo
 
 百度||谷歌关键字 -- “no_perms Private mode enable”，你会得到答案 - npm registry指向了其他三方的仓库了。我的就是指向了taobao的npm仓库了。
 
-（4）搞定了之后验证下，npm install <your-package>，或者从你的[npmjs主页](www.npmjs.com)上，查看你名下的npm包吧。
+（4）搞定了之后验证下，npm install <your-package>，或者从你的[npmjs主页](www.npmjs.com)上，查看你名下的npm包。如果要修改包内容发布新版本，手动改package.json里的version就行。然后执行`npm publish`。
